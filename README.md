@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="trace-walking-bulb-4676.png" alt="TRACE logo" width="420">
+</p>
+
 # Biased H-LIP Control for Walking on Sloped and Accelerating Ground
 
 **Nhan Le, I-Chia Chang, and Yan Gu**  
